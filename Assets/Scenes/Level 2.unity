@@ -1343,6 +1343,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
+  m_VolumeFrameworkUpdateModeOption: 2
   m_RenderPostProcessing: 1
   m_Antialiasing: 1
   m_AntialiasingQuality: 2
@@ -1817,7 +1818,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4916977298626403482, guid: 34ad9a1601cf54833a85309e9e274e12, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.24
+      value: 4.08
       objectReference: {fileID: 0}
     - target: {fileID: 4916977298626403482, guid: 34ad9a1601cf54833a85309e9e274e12, type: 3}
       propertyPath: m_LocalRotation.w
